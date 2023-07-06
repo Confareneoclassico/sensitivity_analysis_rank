@@ -1,6 +1,6 @@
 pandas==0.24.2
 numpy==1.16.2
 matplotlib==3.0.3
-scipy==1.2.3
+scipy==1.10.0
 sobol_seq==0.1.2
 xlrd==1.1.0
